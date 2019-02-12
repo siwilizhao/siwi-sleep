@@ -1,6 +1,6 @@
 {
   "name": "siwi-sleep",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sleep for nodejs",
   "main": "index.js",
   "directories": {
