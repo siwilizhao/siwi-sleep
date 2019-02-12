@@ -22,7 +22,7 @@ sleep for nodejs
 # Example
 
 ```js
-const sleep = require('siwi-sleep')
+const { sleep } = require('siwi-sleep')
 
 class Example {
     constructor() {
