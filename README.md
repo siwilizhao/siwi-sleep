@@ -15,6 +15,9 @@ sleep for nodejs
 
 ` yarn add siwi-sleep`
 
+# test
+
+`npm test`
 
 # Example
 

@@ -1,7 +1,7 @@
 {
   "name": "siwi-sleep",
   "version": "1.0.0",
-  "description": "",
+  "description": "sleep for nodejs",
   "main": "index.js",
   "directories": {
     "dist": "dist",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/siwilizhao/siwi-wait.git"
+    "url": "git+https://github.com/siwilizhao/siwi-sleep.git"
   },
   "keywords": [
     "wait",
