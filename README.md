@@ -22,19 +22,13 @@ sleep for nodejs
 # Example
 
 ```js
-const { sleep } = require('siwi-sleep')
-
-class Example {
-    constructor() {
-        this.init()
-    }
-    async init () {
-        await sleep(10000)
+(async () => {
+    const { sleep } = require('siwi-sleep')
+    while (true) {
         console.log(1)
+        await sleep(1000)
     }
-}
-
-module.exports = new Example()
+})()
 ```
 
-> console 1 after 10s 
+> console 1 sleep 1s 
