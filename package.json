@@ -28,11 +28,10 @@
   },
   "homepage": "https://github.com/siwilizhao/siwi-sleep#readme",
   "devDependencies": {
+    "@types/node": "^11.9.4",
     "chai": "^4.2.0",
     "mocha": "^5.2.0",
     "typescript": "^3.3.3"
   },
-  "dependencies": {
-    "@types/node": "^11.9.0"
-  }
+  "dependencies": {}
 }
